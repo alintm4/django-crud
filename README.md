@@ -31,6 +31,8 @@ A complete Task Management CRUD application built with Django featuring user aut
 - pip (Python package manager)
 - Virtual environment (recommended)
 
+## Live Demo : https://alintm4.pythonanywhere.com/
+
 ## 🚀 Installation & Setup
 
 ### 1. Clone or Extract the Project
